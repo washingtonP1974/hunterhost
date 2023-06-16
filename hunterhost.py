@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 # coding: utf-8
-#
-# Layer 2 network neighbourhood discovery tool
-# written by Benedikt Waldvogel (mail at bwaldvogel.de)
 
 from __future__ import absolute_import, division, print_function
 import os
