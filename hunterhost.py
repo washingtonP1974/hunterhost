@@ -110,8 +110,7 @@ print("__________________________ :       Starting the host hunt, good luck     
 print("\n")
 print("__________________________ :       <<<<<<<<  RUNNING|ARPING >>>>>>>>       : __________________________________")
 
-#segundo code
-#Ferramenta para descobrir hosts em sua rede usando pings ARP
+
 logging.basicConfig(format='%(asctime)s %(levelname)-5s %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
