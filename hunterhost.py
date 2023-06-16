@@ -14,7 +14,6 @@ import math
 import errno
 import getopt
 import sys
-#Lista de endereços IP/nomes de host da rede local
 
 print("\n")
 print("__________________________ :              HUNTERHOST  PROJECT              : __________________________________")
