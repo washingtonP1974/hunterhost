@@ -9,7 +9,8 @@ Carga de pacotess (255 pacotes final).
 Autorização de leitura = chmod a+x hunterhost.py
 
 Usage:
-EX: python3 hunterhost.py [interface]
+EX: 
+python3 hunterhost.py [interface]
 
 python3 hunterhost.py eth0
 
