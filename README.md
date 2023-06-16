@@ -16,6 +16,9 @@ python3 hunterhost.py eth0
 
 python3 hunterhost.py wlan0
 
+Stop = Ctrl+c
+
+
 Obrigado pela sua escolha.
 
 Morgan Bin Bash
