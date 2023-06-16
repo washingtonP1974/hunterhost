@@ -12,6 +12,7 @@ Usage:
 EX: python3 hunterhost.py [interface]
 
 python3 hunterhost.py eth0
+
 python3 hunterhost.py wlan0
 
 Obrigado pela sua escolha.
